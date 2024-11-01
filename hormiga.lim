@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lim version="5.6.4">
+    <config>
+        <idioma>0</idioma>
+        <licencia></licencia>
+        <adxuntos>01.png,abuelita.png,arbol.png,celebrando.mp3,etiqueta.png,fin.png,gracias.mp3,gru.png,hormiga.html,hormiga.lim,hormiga.lime,hormiga.png,hormiga-2.png,hormigas.png,html.tlm,icon.ico,icono.png,identifica.mp3,index.html,lenador-2.png,memoria.mp3,parejas.mp3,pera-2.png,perdio.mp3,resultados de aprendizaje.mp3,rompecabezaz2-2.png,sopas.mp3,villano.mp3</adxuntos>
+        <corfondo>ffffff</corfondo>
+        <cormensaxes>000000</cormensaxes>
+        <cortexto>000000</cortexto>
+        <titulo>Cuento: La Hormiga Cabezona</titulo>
+        <subtitulo>Contando Valores</subtitulo>
+        <autor>Wilton Antonio Martinez Escorcia</autor>
+        <logo>icono.png</logo>
+        <informe>1</informe>
+        <botonson>1</botonson>
+        <maximizar>1</maximizar>
+        <desordenar>0</desordenar>
+        <correcto son="celebrando.mp3" modo="1" >CORRECTO</correcto>
+        <incorrecto son="perdio.mp3" modo="1" >INCORRECTO</incorrecto>
+    </config>
+    <libro>
+        <paxina id="1" >
+              <tipo>38</tipo>
+              <cabeceira>Titulo</cabeceira>
+              <pe>Estudiante: Wilton Martinez Escorcia | Lic. Tecnología | Unimagdalena | 2024 - 2</pe>
+              <imaxe>01.png</imaxe>
+              <forma>2</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="2" >
+              <tipo>38</tipo>
+              <cabeceira>Resultados de Aprendizaje</cabeceira>
+              <pe>Estudiante: Wilton Martinez Escorcia | Lic. Tecnología | Unimagdalena | 2024 - 2</pe>
+              <imaxe>01.png</imaxe>
+              <forma>0</forma>
+              <texto><![CDATA[
+<p align="left">
+<font color="#080000" face="Arial" size="20"><li>Valorar la diversidad y aceptar las diferencias.</li>
+<br>
+<li>Demostrar fortaleza ante la adversidad y defender lo justo.</li>
+<br>
+<li>Practicar la gratitud y la reciprocidad.</li>
+</font></p>
+]]></texto>
+              <ctexto>000000</ctexto>
+        </paxina>
+        <paxina id="3" >
+              <tipo>16</tipo>
+              <cabeceira>Video Cuento</cabeceira>
+              <pe>Estudiante: Wilton Martinez Escorcia | Lic. Tecnología | Unimagdalena | 2024 - 2</pe>
+              <son auto="1">play.mp3</son>
+              <externa dimx="560" dimy="315"><![CDATA[&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/6LaygjE-1qY?si=ulT5bwBjhlrwpKXP&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen&gt;&lt;/iframe&gt;]]></externa>
+        </paxina>
+        <paxina id="4" >
+              <tipo>3</tipo>
+              <cabeceira>Actividad #1 Rompecabeza</cabeceira>
+              <pe>Estudiante: Wilton Martinez Escorcia | Lic. Tecnología | Unimagdalena | 2024 - 2</pe>
+              <imaxe>rompecabezaz2-2.png</imaxe>
+              <son auto="1">completa.mp3</son>
+              <imfondo  trans="20">rompecabezaz2-2.png</imfondo>
+              <filas>2</filas>
+              <columnas>2</columnas>
+              <reixa>1</reixa>
+            <forma>0</forma>
+        </paxina>
+        <paxina id="5" >
+              <tipo>4</tipo>
+              <cabeceira>Actividad #2 Sopa de Letras</cabeceira>
+              <pe>Estudiante: Wilton Martinez Escorcia | Lic. Tecnología | Unimagdalena | 2024 - 2</pe>
+              <son auto="1">sopas.mp3</son>
+              <modo>2</modo>
+              <sopa enun="abuelita.png">ABUELITA</sopa>
+              <sopa enun="arbol.png">ARBOL</sopa>
+              <sopa enun="hormiga.png">HORMIGA</sopa>
+              <sopa enun="lenador-2.png">LEÑADOR</sopa>
+              <sopa enun="pera-2.png">PERA</sopa>
+              <enunciado>1</enunciado>
+              <colorea>1</colorea>
+              <cadro>1</cadro>
+              <fondo>abcdefghijklmnopqrst</fondo>
+        </paxina>
+        <paxina id="6" >
+              <tipo>51</tipo>
+              <cabeceira>Actividad #3 Memoria</cabeceira>
+              <pe>Estudiante: Wilton Martinez Escorcia | Lic. Tecnología | Unimagdalena | 2024 - 2</pe>
+              <son auto="1">memoria.mp3</son>
+              <valor>5</valor>
+              <peza imaxe="hormiga.png">1</peza>
+              <peza imaxe="hormiga-2.png">2</peza>
+              <modo>1</modo>
+              <cadro>1</cadro>
+        </paxina>
+        <paxina id="7" >
+              <tipo>24</tipo>
+              <cabeceira>Actividad #4 Idenfificar</cabeceira>
+              <pe>Estudiante: Wilton Martinez Escorcia | Lic. Tecnología | Unimagdalena | 2024 - 2</pe>
+              <son auto="1">identifica.mp3</son>
+              <etiqueta imaxe="arbol.png" texto="El Arbol">1</etiqueta>
+              <etiqueta imaxe="hormiga.png" texto="La Hormiga Cabezona">0</etiqueta>
+              <etiqueta imaxe="abuelita.png" texto="La Abuelita">0</etiqueta>
+              <etiqueta imaxe="pera-2.png" texto="La pera">0</etiqueta>
+              <etiqueta imaxe="lenador-2.png" texto="Caperucita">0</etiqueta>
+              <etiqueta imaxe="hormigas.png" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="8" >
+              <tipo>24</tipo>
+              <cabeceira>Actividad #5 Idenfificar</cabeceira>
+              <pe>Estudiante: Wilton Martinez Escorcia | Lic. Tecnología | Unimagdalena | 2024 - 2</pe>
+              <son auto="1">villano.mp3</son>
+              <etiqueta imaxe="hormigas.png" texto="Las Hormigas">0</etiqueta>
+              <etiqueta imaxe="lenador-2.png" texto="El Leñador">1</etiqueta>
+              <etiqueta imaxe="abuelita.png" texto="La Abuelita">0</etiqueta>
+              <etiqueta imaxe="arbol.png" texto="El Arbol">0</etiqueta>
+              <etiqueta imaxe="pera-2.png" texto="">0</etiqueta>
+              <etiqueta imaxe="hormiga-2.png" texto="">0</etiqueta>
+              <cfondo>83FE8C</cfondo>
+        </paxina>
+        <paxina id="9" >
+              <tipo>38</tipo>
+              <cabeceira>Gracias !</cabeceira>
+              <pe>Estudiante: Wilton Martinez Escorcia | Lic. Tecnología | Unimagdalena | 2024 - 2</pe>
+              <imaxe>fin.png</imaxe>
+              <son auto="1">gracias.mp3</son>
+              <forma>2</forma>
+              <ctexto>000000</ctexto>
+        </paxina>
+    </libro>
+</lim>
